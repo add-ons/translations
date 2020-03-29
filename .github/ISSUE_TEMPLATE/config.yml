@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+- name: Add-on translators wiki (public)
+  url: https://github.com/add-ons/translations/wiki
+  about: Read the documentation for Add-on translators
+- name: Add-on translations work (public)
+  url: https://github.com/add-ons/translations/issues
+  about: Help us translate Kodi add-ons to more languages
+- name: Add-on translators forum (internal)
+  url: https://github.com/orgs/add-ons/teams/translators
+  about: Join the translator teams to discuss with other translators privately
