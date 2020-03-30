@@ -39,6 +39,7 @@ Here is the list of Kodi-addons languages and their status.
 |Hebrew|he_il|❌|
 |Croatian|hr_hr|❌|
 |Hungarian|hu_hu|❌|
+|Hindi|in_hi|❌|
 |Italian|it_it|❌|
 |Japanese|ja_jp|❌|
 |Korean|ko_kr|❌|
