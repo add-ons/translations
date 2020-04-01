@@ -1,9 +1,8 @@
 ---
+title: Translate [ADD-ON]
+labels: new, translations
 name: Translation request
 about: Use this template to request translating an add-on
-title: Translate [ADD-ON]
-labels: translations, new
-assignees: add-ons/translators
 ---
 <!--- Replace the different variables below, or add additional information -->
 We would like to request translations for add-on **[ADD-ON]**.
@@ -70,3 +69,5 @@ Here is the list of Kodi-addons languages and their status.
 ```
 </pre></p>
 </details>
+
+cc @add-ons/translators
